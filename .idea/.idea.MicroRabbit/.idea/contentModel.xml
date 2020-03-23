@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_MicroRabbit.-1471139797.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Domain" t="Include" />
+      <e p="Infra.Bus" t="Include" />
+      <e p="Infra.IoC" t="Include" />
+      <e p="MicroRabbit.Banking.Api" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="MicroRabbit.Banking.Api.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="app.config" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Banking.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Banking.Application" t="IncludeRecursive">
+        <e p="MicroRabbit.Banking.Application.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Banking.Application.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Banking.Data" t="IncludeRecursive">
+        <e p="MicroRabbit.Banking.Data.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Banking.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Banking.Domain" t="IncludeRecursive">
+        <e p="MicroRabbit.Banking.Domain.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Banking.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Domain.Core" t="IncludeRecursive">
+        <e p="Bus" t="Include">
+          <e p="IEventBus.cs" t="Include" />
+          <e p="IEventHandler.cs" t="Include" />
+        </e>
+        <e p="Commands" t="Include">
+          <e p="Command.cs" t="Include" />
+        </e>
+        <e p="Events" t="Include">
+          <e p="Event.cs" t="Include" />
+          <e p="Message.cs" t="Include" />
+        </e>
+        <e p="MicroRabbit.Domain.Core.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Domain.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Infra.Bus" t="IncludeRecursive">
+        <e p="MicroRabbit.Infra.Bus.csproj" t="IncludeRecursive" />
+        <e p="RabbitMQBus.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Infra.Bus.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Infra.IoC" t="IncludeRecursive">
+        <e p="DependencyContainer.cs" t="Include" />
+        <e p="MicroRabbit.Infra.IoC.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MicroRabbit.Infra.IoC.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.sln" t="IncludeFlat" />
+      <e p="Presentation" t="Include" />
+      <e p="Services" t="Include">
+        <e p="Banking" t="Include">
+          <e p="Api" t="Include" />
+          <e p="Application" t="Include" />
+          <e p="Data" t="Include" />
+          <e p="Domain" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

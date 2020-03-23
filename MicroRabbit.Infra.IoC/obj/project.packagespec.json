@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
+    "projectName": "MicroRabbit.Infra.IoC",
+    "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
+    "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Infra.IoC/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+          },
+          "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
