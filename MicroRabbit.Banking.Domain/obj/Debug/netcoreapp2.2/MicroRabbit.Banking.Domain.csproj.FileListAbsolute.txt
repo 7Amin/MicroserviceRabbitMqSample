@@ -1,0 +1,9 @@
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.deps.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/bin/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.AssemblyInfo.cs
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Domain.pdb

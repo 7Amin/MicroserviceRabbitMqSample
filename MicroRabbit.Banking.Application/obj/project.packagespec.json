@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
+    "projectUniqueName": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
     "projectName": "MicroRabbit.Banking.Application",
-    "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
-    "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Banking.Application/obj/",
+    "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
+    "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Application/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -37,10 +41,16 @@
         }
       },
       "imports": [
-        "net461"
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }
 }

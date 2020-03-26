@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+    "projectUniqueName": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
     "projectName": "MicroRabbit.Domain.Core",
-    "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
-    "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/obj/",
+    "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+    "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
@@ -49,10 +46,16 @@
         }
       },
       "imports": [
-        "net461"
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }
 }

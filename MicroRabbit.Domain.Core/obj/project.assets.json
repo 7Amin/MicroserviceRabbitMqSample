@@ -239,7 +239,7 @@
   },
   "libraries": {
     "MediatR/8.0.0": {
-      "sha512": "sUfUSrjr8pEfqa9OKMxJw32IhtPEBFJ8dVwISRfipJF1wxUaGz5J40f17E23rokNAQiRm6wFncB1PYemSpWPDQ==",
+      "sha512": "cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
       "type": "package",
       "path": "mediatr/8.0.0",
       "files": [
@@ -720,7 +720,7 @@
       ]
     },
     "Newtonsoft.Json/12.0.3": {
-      "sha512": "aTRmXwR5xYu+mWxE8r8W1DWnL02SeV8LwdQMsLwTWP8OZgrCCyTqvOAe5hRb1VNQYXjln7qr0PKpSyO/pcc19Q==",
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
       "path": "newtonsoft.json/12.0.3",
       "files": [
@@ -751,7 +751,7 @@
       ]
     },
     "RabbitMQ.Client/5.1.2": {
-      "sha512": "VOnK4THfjIRF3ZvRzHHgpyaqXBeehP/QA+hC1LyUh2zwt2Uygo5gcZYBaKyLzm+ABcWPr5flWsf1JmutV77gAw==",
+      "sha512": "Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
       "type": "package",
       "path": "rabbitmq.client/5.1.2",
       "files": [
@@ -777,21 +777,17 @@
     ]
   },
   "packageFolders": {
-    "/home/amin/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/amin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+      "projectUniqueName": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
       "projectName": "MicroRabbit.Domain.Core",
-      "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+      "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
       "packagesPath": "/home/amin/.nuget/packages/",
-      "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitmqSample/MicroRabbit.Domain.Core/obj/",
+      "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "/home/amin/.config/NuGet/NuGet.Config"
       ],
@@ -835,10 +831,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
       }
     }
   }
