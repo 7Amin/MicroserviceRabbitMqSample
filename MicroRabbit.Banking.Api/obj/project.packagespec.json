@@ -33,6 +33,14 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
+        "MediatR": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        },
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        },
         "Microsoft.AspNetCore": {
           "target": "Package",
           "version": "[2.2.0, )"
@@ -50,6 +58,10 @@
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.2.1, )"
         }
       },
       "imports": [
