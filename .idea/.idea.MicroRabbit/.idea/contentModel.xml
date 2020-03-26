@@ -141,10 +141,58 @@
           </e>
         </e>
       </e>
+      <e p="MicroRabbit.Transfer.Api" t="IncludeRecursive">
+        <e p="MicroRabbit.Transfer.Api.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MicroRabbit.Transfer.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Transfer.Application" t="IncludeRecursive">
+        <e p="Class1.cs" t="Include" />
+        <e p="MicroRabbit.Transfer.Application.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MicroRabbit.Transfer.Application.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Transfer.Data" t="IncludeRecursive">
+        <e p="Class1.cs" t="Include" />
+        <e p="MicroRabbit.Transfer.Data.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MicroRabbit.Transfer.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="MicroRabbit.sln" t="IncludeFlat" />
       <e p="Presentation" t="Include" />
       <e p="Services" t="Include">
         <e p="Banking" t="Include">
+          <e p="Api" t="Include" />
+          <e p="Application" t="Include" />
+          <e p="Data" t="Include" />
+          <e p="Domain" t="Include" />
+        </e>
+        <e p="Transfer" t="Include">
           <e p="Api" t="Include" />
           <e p="Application" t="Include" />
           <e p="Data" t="Include" />
