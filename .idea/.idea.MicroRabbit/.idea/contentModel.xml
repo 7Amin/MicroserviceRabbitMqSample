@@ -35,6 +35,9 @@
           <e p="IAccountService.cs" t="Include" />
         </e>
         <e p="MicroRabbit.Banking.Application.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="AccountTransfer.cs" t="Include" />
+        </e>
         <e p="Services" t="Include">
           <e p="AccountService.cs" t="Include" />
         </e>
@@ -65,10 +68,17 @@
         </e>
       </e>
       <e p="MicroRabbit.Banking.Domain" t="IncludeRecursive">
-        <e p="CommandHandlers" t="Include" />
-        <e p="Commands" t="Include" />
+        <e p="CommandHandlers" t="Include">
+          <e p="TransferCommandHandler.cs" t="Include" />
+        </e>
+        <e p="Commands" t="Include">
+          <e p="CreateTransferCommand.cs" t="Include" />
+          <e p="TransferCommand.cs" t="Include" />
+        </e>
         <e p="EventHandlers" t="Include" />
-        <e p="Events" t="Include" />
+        <e p="Events" t="Include">
+          <e p="TransferCreatedEvent.cs" t="Include" />
+        </e>
         <e p="Interfaces" t="Include">
           <e p="IAccountRepository.cs" t="Include" />
         </e>
