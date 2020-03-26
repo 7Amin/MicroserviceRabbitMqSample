@@ -24,18 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f296f124-515a-4b59-a6de-aff0333a7674" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Api.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/Controllers/BankingController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Models/Account.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Interfaces/IAccountRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Api/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Api/Controllers/BankingController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Interfaces/IAccountService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Domain.Core/Bus/IEventBus.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs" root0="FORCE_HIGHLIGHTING" />
@@ -116,6 +108,7 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Api/appsettings.json" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Api/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Banking.Api/Controllers/BankingController.cs" />
       </list>
     </option>
   </component>
@@ -210,7 +203,7 @@
       <workItem from="1582893348946" duration="5829000" />
       <workItem from="1584957795066" duration="3804000" />
       <workItem from="1585213061294" duration="1848000" />
-      <workItem from="1585223435997" duration="6340000" />
+      <workItem from="1585223435997" duration="7196000" />
     </task>
     <task id="LOCAL-00001" summary="add template of micro service and rabbitMQ to the project">
       <created>1582808787616</created>
