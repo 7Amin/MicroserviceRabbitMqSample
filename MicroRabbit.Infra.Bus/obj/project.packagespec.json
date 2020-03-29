@@ -6,6 +6,9 @@
     "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
     "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],

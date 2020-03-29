@@ -293,6 +293,9 @@
         "packagesPath": "/home/amin/.nuget/packages/",
         "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/home/amin/.config/NuGet/NuGet.Config"
         ],
@@ -358,6 +361,9 @@
         "packagesPath": "/home/amin/.nuget/packages/",
         "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/home/amin/.config/NuGet/NuGet.Config"
         ],

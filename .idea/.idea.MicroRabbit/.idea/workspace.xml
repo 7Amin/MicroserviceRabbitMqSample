@@ -26,7 +26,36 @@
     <list default="true" id="f296f124-515a-4b59-a6de-aff0333a7674" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Api.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Api/obj/MicroRabbit.Banking.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/MicroRabbit.Banking.Application.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/MicroRabbit.Banking.Application.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/MicroRabbit.Banking.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Application/obj/MicroRabbit.Banking.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/Debug/netcoreapp2.2/MicroRabbit.Banking.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/MicroRabbit.Banking.Data.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/MicroRabbit.Banking.Data.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/MicroRabbit.Banking.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Data/obj/MicroRabbit.Banking.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/MicroRabbit.Banking.Domain.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/MicroRabbit.Banking.Domain.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/MicroRabbit.Banking.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Banking.Domain/obj/MicroRabbit.Banking.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/Debug/netcoreapp2.2/MicroRabbit.Domain.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/MicroRabbit.Domain.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/MicroRabbit.Domain.Core.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/MicroRabbit.Domain.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/MicroRabbit.Domain.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/MicroRabbit.Domain.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/MicroRabbit.Domain.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Domain.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.Bus.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/MicroRabbit.Infra.Bus.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/MicroRabbit.Infra.Bus.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/MicroRabbit.Infra.Bus.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/MicroRabbit.Infra.Bus.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/MicroRabbit.Infra.Bus.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/MicroRabbit.Infra.Bus.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.Bus/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp2.2/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/obj/MicroRabbit.Infra.IoC.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Api.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +79,6 @@
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/CommandHandlers/TransferCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Events/TransferCreatedEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Domain.Core/Events/Event.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MicroRabbit.Transfer.Application/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Domain.Core/Events/Message.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Domain.Core/Commands/Command.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -68,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Data/Context/ZIndexDbContext.cs" />
-        <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/LogisticalPackagingInformation_007.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/MutualRelationship_070.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/Names_020.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/PreferencePolicy_161.cs" />
@@ -119,6 +145,8 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Api/Controllers/BankingController.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Application/Class1.cs" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Domain/Class1.cs" />
       </list>
     </option>
   </component>
@@ -140,6 +168,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/dfghjk" />
@@ -213,7 +242,10 @@
       <workItem from="1582893348946" duration="5829000" />
       <workItem from="1584957795066" duration="3804000" />
       <workItem from="1585213061294" duration="1848000" />
-      <workItem from="1585223435997" duration="11616000" />
+      <workItem from="1585223435997" duration="12436000" />
+      <workItem from="1585295146659" duration="1239000" />
+      <workItem from="1585468402450" duration="1008000" />
+      <workItem from="1585493023574" duration="1257000" />
     </task>
     <task id="LOCAL-00001" summary="add template of micro service and rabbitMQ to the project">
       <created>1582808787616</created>
@@ -242,7 +274,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -262,22 +296,22 @@
       <screen x="70" y="27" width="2490" height="1053" />
     </state>
     <state x="1664" y="401" width="526" height="312" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585226518493" />
-    <state width="1189" height="275" key="GridCell.Tab.0.bottom" timestamp="1585226636579">
+    <state width="1189" height="275" key="GridCell.Tab.0.bottom" timestamp="1585237868190">
       <screen x="70" y="27" width="2490" height="1053" />
     </state>
-    <state width="1189" height="275" key="GridCell.Tab.0.bottom/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585226636579" />
-    <state width="1189" height="275" key="GridCell.Tab.0.center" timestamp="1585226636579">
+    <state width="1189" height="275" key="GridCell.Tab.0.bottom/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585237868190" />
+    <state width="1189" height="275" key="GridCell.Tab.0.center" timestamp="1585237868190">
       <screen x="70" y="27" width="2490" height="1053" />
     </state>
-    <state width="1189" height="275" key="GridCell.Tab.0.center/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585226636579" />
-    <state width="1189" height="275" key="GridCell.Tab.0.left" timestamp="1585226636578">
+    <state width="1189" height="275" key="GridCell.Tab.0.center/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585237868190" />
+    <state width="1189" height="275" key="GridCell.Tab.0.left" timestamp="1585237868189">
       <screen x="70" y="27" width="2490" height="1053" />
     </state>
-    <state width="1189" height="275" key="GridCell.Tab.0.left/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585226636578" />
-    <state width="1189" height="275" key="GridCell.Tab.0.right" timestamp="1585226636579">
+    <state width="1189" height="275" key="GridCell.Tab.0.left/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585237868189" />
+    <state width="1189" height="275" key="GridCell.Tab.0.right" timestamp="1585237868190">
       <screen x="70" y="27" width="2490" height="1053" />
     </state>
-    <state width="1189" height="275" key="GridCell.Tab.0.right/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585226636579" />
+    <state width="1189" height="275" key="GridCell.Tab.0.right/70.27.2490.1053/327.1080.1920.1080@70.27.2490.1053" timestamp="1585237868190" />
     <state x="1527" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1585236916551">
       <screen x="70" y="27" width="2490" height="1053" />
     </state>

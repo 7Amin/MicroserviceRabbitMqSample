@@ -160,7 +160,7 @@
         </e>
       </e>
       <e p="MicroRabbit.Transfer.Application" t="IncludeRecursive">
-        <e p="Class1.cs" t="Include" />
+        <e p="Interfaces" t="Include" />
         <e p="MicroRabbit.Transfer.Application.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
@@ -172,13 +172,31 @@
         </e>
       </e>
       <e p="MicroRabbit.Transfer.Data" t="IncludeRecursive">
-        <e p="Class1.cs" t="Include" />
+        <e p="Context" t="Include" />
         <e p="MicroRabbit.Transfer.Data.csproj" t="IncludeRecursive" />
+        <e p="Repository" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Transfer.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MicroRabbit.Transfer.Domain" t="IncludeRecursive">
+        <e p="CommandHandlers" t="Include" />
+        <e p="Commands" t="Include" />
+        <e p="EventHandlers" t="Include" />
+        <e p="Events" t="Include" />
+        <e p="Interfaces" t="Include" />
+        <e p="MicroRabbit.Transfer.Domain.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MicroRabbit.Transfer.Domain.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>

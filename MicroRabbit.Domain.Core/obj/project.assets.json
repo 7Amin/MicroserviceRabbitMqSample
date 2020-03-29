@@ -777,7 +777,8 @@
     ]
   },
   "packageFolders": {
-    "/home/amin/.nuget/packages/": {}
+    "/home/amin/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -788,6 +789,9 @@
       "packagesPath": "/home/amin/.nuget/packages/",
       "outputPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/home/amin/.config/NuGet/NuGet.Config"
       ],
