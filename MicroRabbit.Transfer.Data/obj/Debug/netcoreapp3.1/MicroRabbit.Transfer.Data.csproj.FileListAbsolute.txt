@@ -1,0 +1,15 @@
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.AssemblyInfo.cs
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.deps.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.runtimeconfig.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.runtimeconfig.dev.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.csproj.CopyComplete
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.genruntimeconfig.cache

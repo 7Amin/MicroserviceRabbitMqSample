@@ -10,4 +10,9 @@
       <PackageReference Include="Swashbuckle.AspNetCore" Version="5.2.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MicroRabbit.Infra.IoC\MicroRabbit.Infra.IoC.csproj" />
+      <ProjectReference Include="..\MicroRabbit.Transfer.Data\MicroRabbit.Transfer.Data.csproj" />
+    </ItemGroup>
+
 </Project>

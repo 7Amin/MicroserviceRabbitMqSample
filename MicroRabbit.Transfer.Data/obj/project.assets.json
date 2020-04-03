@@ -1475,6 +1475,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "MicroRabbit.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
+        }
       }
     }
   },
@@ -5634,10 +5644,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "MicroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MicroRabbit.Transfer.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0-preview.2.20120.8",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0-preview.2.20120.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0-preview.2.20120.8",
@@ -5671,7 +5687,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj": {
+              "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5696,8 +5716,6 @@
             "version": "[5.0.0-preview.2.20120.8, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.0-preview.2.20120.8, )"
           }

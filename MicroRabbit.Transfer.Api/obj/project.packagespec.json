@@ -17,7 +17,14 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj"
+          },
+          "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

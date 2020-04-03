@@ -174,7 +174,9 @@
         </e>
       </e>
       <e p="MicroRabbit.Transfer.Data" t="IncludeRecursive">
-        <e p="Context" t="Include" />
+        <e p="Context" t="Include">
+          <e p="TransferDbContext.cs" t="Include" />
+        </e>
         <e p="MicroRabbit.Transfer.Data.csproj" t="IncludeRecursive" />
         <e p="Repository" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -193,7 +195,9 @@
         <e p="Events" t="Include" />
         <e p="Interfaces" t="Include" />
         <e p="MicroRabbit.Transfer.Domain.csproj" t="IncludeRecursive" />
-        <e p="Models" t="Include" />
+        <e p="Models" t="Include">
+          <e p="TransferLog.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
