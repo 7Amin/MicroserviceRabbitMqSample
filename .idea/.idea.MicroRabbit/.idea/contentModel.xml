@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_MicroRabbit.-1471139797.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_MicroRabbit.-1471139797.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Domain" t="Include" />
       <e p="Infra.Bus" t="Include" />
@@ -23,7 +23,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Banking.Api.AssemblyInfo.cs" t="Include" />
               <e p="MicroRabbit.Banking.Api.RazorAssemblyInfo.cs" t="Include" />
             </e>
@@ -44,7 +44,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Banking.Application.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -61,7 +61,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Banking.Data.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -89,7 +89,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Banking.Domain.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -111,7 +111,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Domain.Core.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -123,7 +123,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Infra.Bus.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -135,7 +135,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="MicroRabbit.Infra.IoC.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -160,10 +160,14 @@
         </e>
       </e>
       <e p="MicroRabbit.Transfer.Application" t="IncludeRecursive">
-        <e p="Interfaces" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="ITransferService.cs" t="Include" />
+        </e>
         <e p="MicroRabbit.Transfer.Application.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include" />
-        <e p="Services" t="Include" />
+        <e p="Services" t="Include">
+          <e p="TransferService.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -178,7 +182,9 @@
           <e p="TransferDbContext.cs" t="Include" />
         </e>
         <e p="MicroRabbit.Transfer.Data.csproj" t="IncludeRecursive" />
-        <e p="Repository" t="Include" />
+        <e p="Repository" t="Include">
+          <e p="TransferRepository.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -193,7 +199,9 @@
         <e p="Commands" t="Include" />
         <e p="EventHandlers" t="Include" />
         <e p="Events" t="Include" />
-        <e p="Interfaces" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="ITransferRepository.cs" t="Include" />
+        </e>
         <e p="MicroRabbit.Transfer.Domain.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
           <e p="TransferLog.cs" t="Include" />

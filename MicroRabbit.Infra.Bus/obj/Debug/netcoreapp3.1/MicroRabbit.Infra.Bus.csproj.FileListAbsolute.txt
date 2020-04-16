@@ -1,0 +1,12 @@
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.deps.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.AssemblyInfo.cs
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.csproj.CopyComplete
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.pdb

@@ -1,0 +1,17 @@
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.deps.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.runtimeconfig.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.runtimeconfig.dev.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csprojAssemblyReference.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.AssemblyInfo.cs
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csproj.CopyComplete
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.genruntimeconfig.cache

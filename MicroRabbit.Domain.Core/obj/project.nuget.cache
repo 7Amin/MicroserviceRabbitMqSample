@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cll4QFCJ2XOiNSfZjvuNXhjp98OSqacNJLzbGAu1BR5P4Uq+pzvzPlXsVRV0i3i0CePrhMPz+bYtc/rcy+kQkg==",
+  "success": true,
+  "projectFilePath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/amin/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
+    "/home/amin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/amin/.nuget/packages/rabbitmq.client/5.1.2/rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

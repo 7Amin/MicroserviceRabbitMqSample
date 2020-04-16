@@ -10,13 +10,13 @@
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "netcoreapp3.1"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp2.2": {
+      "netcoreapp3.1": {
         "projectReferences": {
           "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj": {
             "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj"
@@ -29,6 +29,15 @@
           },
           "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj": {
             "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj"
+          },
+          "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj"
+          },
+          "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj"
+          },
+          "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
           }
         }
       }
@@ -40,17 +49,11 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
+    "netcoreapp3.1": {
       "dependencies": {
         "Microsoft.Extensions.DependencyInjection": {
           "target": "Package",
           "version": "[3.1.2, )"
-        },
-        "Microsoft.NETCore.App": {
-          "suppressParent": "All",
-          "target": "Package",
-          "version": "[2.2.0, )",
-          "autoReferenced": true
         }
       },
       "imports": [
@@ -63,6 +66,11 @@
       ],
       "assetTargetFallback": true,
       "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
       "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }

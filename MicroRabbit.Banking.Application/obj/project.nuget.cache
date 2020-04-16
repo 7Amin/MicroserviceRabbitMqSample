@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MOCX/ZNtWLGCLfq6cmAI/dOg+qiDZ7mJQrEdx0Z+IY6yqW+h0F12GTA9S2rXRyjg2FiS8EbtHg1JuYi7u4cWQ==",
+  "success": true,
+  "projectFilePath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/amin/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
+    "/home/amin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/amin/.nuget/packages/rabbitmq.client/5.1.2/rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

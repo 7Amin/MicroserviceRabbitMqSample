@@ -1471,7 +1471,7 @@
       },
       "MicroRabbit.Banking.Application/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MicroRabbit.Banking.Domain": "1.0.0"
         },
@@ -1484,7 +1484,7 @@
       },
       "MicroRabbit.Banking.Data/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MicroRabbit.Banking.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.2",
@@ -1501,7 +1501,7 @@
       },
       "MicroRabbit.Banking.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MicroRabbit.Domain.Core": "1.0.0"
         },
@@ -1514,7 +1514,7 @@
       },
       "MicroRabbit.Domain.Core/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MediatR": "8.0.0",
           "Newtonsoft.Json": "12.0.3",
@@ -1529,7 +1529,7 @@
       },
       "MicroRabbit.Infra.Bus/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MediatR": "8.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
@@ -1545,12 +1545,15 @@
       },
       "MicroRabbit.Infra.IoC/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MicroRabbit.Banking.Application": "1.0.0",
           "MicroRabbit.Banking.Data": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Bus": "1.0.0",
+          "MicroRabbit.Transfer.Application": "1.0.0",
+          "MicroRabbit.Transfer.Data": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.2"
         },
         "compile": {
@@ -1558,6 +1561,20 @@
         },
         "runtime": {
           "bin/placeholder/MicroRabbit.Infra.IoC.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
         }
       },
       "MicroRabbit.Transfer.Data/1.0.0": {
@@ -5644,6 +5661,11 @@
       "path": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
       "msbuildProject": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj"
     },
+    "MicroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj"
+    },
     "MicroRabbit.Transfer.Data/1.0.0": {
       "type": "project",
       "path": "../MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj",
@@ -5681,7 +5703,7 @@
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/amin/.config/NuGet/NuGet.Config"
+        "/home/amin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

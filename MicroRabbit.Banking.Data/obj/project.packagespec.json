@@ -10,13 +10,13 @@
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "netcoreapp3.1"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp2.2": {
+      "netcoreapp3.1": {
         "projectReferences": {
           "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
             "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
@@ -31,7 +31,7 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
+    "netcoreapp3.1": {
       "dependencies": {
         "Microsoft.EntityFrameworkCore": {
           "target": "Package",
@@ -48,12 +48,6 @@
         "Microsoft.EntityFrameworkCore.Tools": {
           "target": "Package",
           "version": "[3.1.2, )"
-        },
-        "Microsoft.NETCore.App": {
-          "suppressParent": "All",
-          "target": "Package",
-          "version": "[2.2.0, )",
-          "autoReferenced": true
         }
       },
       "imports": [
@@ -66,6 +60,11 @@
       ],
       "assetTargetFallback": true,
       "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
       "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }

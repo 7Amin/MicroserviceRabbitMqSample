@@ -73,3 +73,5 @@
 /home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Api.dll
 /home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Api.pdb
 /home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Api.genruntimeconfig.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.pdb

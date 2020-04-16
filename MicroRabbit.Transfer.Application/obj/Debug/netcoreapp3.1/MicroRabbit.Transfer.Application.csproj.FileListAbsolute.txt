@@ -1,0 +1,14 @@
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.deps.json
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.AssemblyInfo.cs
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.csproj.CopyComplete
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.pdb
