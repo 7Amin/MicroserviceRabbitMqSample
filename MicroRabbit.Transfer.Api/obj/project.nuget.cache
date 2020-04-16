@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wPk2Wo+G3KV0Q++xWPaVbapQMl8sVZmFlZDM8TjCrw+pSWXW1jPLvHaN0Wdw7Ezzw973Cy6crWMwi7uTRkR7mw==",
+  "dgSpecHash": "74j+T2YlulSYMT4fOwWxYe/xd9zM8xe1UEmcUMvwSiYdFZN3vr5Fsu7VOR4Wv/pYlE6zyfKOiQyjwNdhsfG+1Q==",
   "success": true,
   "projectFilePath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Api/MicroRabbit.Transfer.Api.csproj",
   "expectedPackageFiles": [

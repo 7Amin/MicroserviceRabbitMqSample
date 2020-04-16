@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+            "projectPath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

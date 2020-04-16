@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SCf9xR5ZSg0CsRuq6mKSFrCJkvQwLzUDV3CPAobZOrFsXq/DmexKL3u014k0pStRcS0v9f8x6LVAU4k7K7bo7g==",
+  "dgSpecHash": "j+GQEyNGzWrLBdoNtGzOY1GfeO5R+q7pGhZ46skF4nG6Q4mhR5JYO693WnYylCCaUrbMttNUGaoT0q2/njuxTw==",
   "success": true,
   "projectFilePath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj",
   "expectedPackageFiles": [

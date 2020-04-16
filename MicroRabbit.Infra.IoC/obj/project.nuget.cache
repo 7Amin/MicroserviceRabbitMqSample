@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UjJvqGrbIfBVPzDa/p/Z8gW3Uh7TiZTDtDshxG79lkZLek4c/O3C6ZXhGx1V3bNhc6H5l44FQy/l92bKu2ItJw==",
+  "dgSpecHash": "RDvzi7BINL6ZYJ5eHfsI+EWmoObSwMGCaod7VliSzOxpyh9KKZHvS4YxFa3XFAU4q3Z0Ks7i5sIeUv329/5pLw==",
   "success": true,
   "projectFilePath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [

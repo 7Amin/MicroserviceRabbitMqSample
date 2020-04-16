@@ -200,8 +200,12 @@
       <e p="MicroRabbit.Transfer.Domain" t="IncludeRecursive">
         <e p="CommandHandlers" t="Include" />
         <e p="Commands" t="Include" />
-        <e p="EventHandlers" t="Include" />
-        <e p="Events" t="Include" />
+        <e p="EventHandlers" t="Include">
+          <e p="TransferEventHandler.cs" t="Include" />
+        </e>
+        <e p="Events" t="Include">
+          <e p="TransferCreatedEvent.cs" t="Include" />
+        </e>
         <e p="Interfaces" t="Include">
           <e p="ITransferRepository.cs" t="Include" />
         </e>
