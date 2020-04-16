@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="BuildServerSettings">
     <option name="LOGIN" value="" />
     <option name="SERVER_URL" value="http://buildserver" />
@@ -24,7 +42,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f296f124-515a-4b59-a6de-aff0333a7674" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/BankingController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroRabbit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.Transfer.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.Transfer.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroRabbit.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MicroRabbit.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +66,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4CF17712-9ED0-4C5D-874D-48FEBCC62BBD/32/OpenApiInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Transfer.Application/Interfaces/ITransferService.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Application/Models/AccountTransfer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MicroRabbit.Transfer.Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Transfer.Api/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Commands/TransferCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MicroRabbit.Banking.Domain/Commands/CreateTransferCommand.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/ZIndexSyncedBarcode.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/ZIndexSyncedPreference.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/ZIndexArticleAlternative.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.ZIndex.Domain/Models/InsuranceCompany.cs" />
@@ -117,7 +139,6 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Data/Context/TransferDbContext.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Data/Repository/TransferRepository.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Application/Services/TransferService.cs" />
-        <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.Bus/RabbitMQBus.cs" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj" />
@@ -127,6 +148,8 @@
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj" />
         <option value="$PROJECT_DIR$/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj" />
         <option value="$PROJECT_DIR$/MicroRabbit.Infra.IoC/DependencyContainer.cs" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Api/Program.cs" />
+        <option value="$PROJECT_DIR$/MicroRabbit.Transfer.Api/Startup.cs" />
       </list>
     </option>
   </component>
@@ -229,7 +252,7 @@
       <workItem from="1585908628953" duration="777000" />
       <workItem from="1586753452860" duration="599000" />
       <workItem from="1587024609449" duration="1924000" />
-      <workItem from="1587050266623" duration="1381000" />
+      <workItem from="1587050266623" duration="1725000" />
     </task>
     <task id="LOCAL-00001" summary="add template of micro service and rabbitMQ to the project">
       <created>1582808787616</created>

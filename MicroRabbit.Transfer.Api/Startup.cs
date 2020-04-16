@@ -70,8 +70,7 @@ namespace MicroRabbit.Transfer.Api
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Transfer Microservice V1");
             });
-            //app.UseMvc();
-            
+            app.UseMvc();
         }
     }
 }

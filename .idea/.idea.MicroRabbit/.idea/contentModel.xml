@@ -142,6 +142,9 @@
         </e>
       </e>
       <e p="MicroRabbit.Transfer.Api" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="TransferController.cs" t="Include" />
+        </e>
         <e p="MicroRabbit.Transfer.Api.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
