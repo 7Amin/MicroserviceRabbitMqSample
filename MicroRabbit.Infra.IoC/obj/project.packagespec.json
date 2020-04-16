@@ -53,7 +53,7 @@
       "dependencies": {
         "Microsoft.Extensions.DependencyInjection": {
           "target": "Package",
-          "version": "[3.1.2, )"
+          "version": "[5.0.0-preview.2.20160.3, )"
         }
       },
       "imports": [

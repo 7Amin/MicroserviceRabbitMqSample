@@ -7,14 +7,77 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "MicroRabbit.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbit.Transfer.Domain.dll": {}
+        }
+      },
+      "MediatR/8.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "RabbitMQ.Client/5.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      },
+      "MicroRabbit.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "RabbitMQ.Client": "5.1.2"
+        },
+        "runtime": {
+          "MicroRabbit.Domain.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MicroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
+      "path": "mediatr/8.0.0",
+      "hashPath": "mediatr.8.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "RabbitMQ.Client/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
+      "path": "rabbitmq.client/5.1.2",
+      "hashPath": "rabbitmq.client.5.1.2.nupkg.sha512"
+    },
+    "MicroRabbit.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

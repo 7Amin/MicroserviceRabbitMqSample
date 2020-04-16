@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "74j+T2YlulSYMT4fOwWxYe/xd9zM8xe1UEmcUMvwSiYdFZN3vr5Fsu7VOR4Wv/pYlE6zyfKOiQyjwNdhsfG+1Q==",
+  "dgSpecHash": "UAgM9V/aHg5O2SGjDCEEqGBcnCElk3HUDGFrL/Hf68egp0jH32rt9DnWVIxc3xp6BQt/nCuWNoAkoRM3hr9oeg==",
   "success": true,
   "projectFilePath": "/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Api/MicroRabbit.Transfer.Api.csproj",
   "expectedPackageFiles": [
@@ -21,8 +21,8 @@
     "/home/amin/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "/home/amin/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.0/microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
     "/home/amin/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
-    "/home/amin/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.2/microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
-    "/home/amin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.2/microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+    "/home/amin/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0-preview.2.20160.3/microsoft.extensions.dependencyinjection.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "/home/amin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0-preview.2.20160.3/microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
     "/home/amin/.nuget/packages/microsoft.extensions.logging/3.1.0/microsoft.extensions.logging.3.1.0.nupkg.sha512",
     "/home/amin/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
     "/home/amin/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",

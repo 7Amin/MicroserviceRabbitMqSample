@@ -16,7 +16,7 @@ using MicroRabbit.Transfer.Domain.EventHandlers;
 using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Infra.Bus;
 using Microsoft.Extensions.DependencyInjection;
-
+ 
 namespace MicroRabbit.Infra.IoC
 {
     public static class DependencyContainer
@@ -24,8 +24,15 @@ namespace MicroRabbit.Infra.IoC
         public static void RegisterServices(IServiceCollection services)
         {
             // Domain Bus 
-            services.AddTransient<IEventBus, RabbitMQBus>();
-            
+            services.AddSingleton<IEventBus, RabbitMQBus>(sp =>
+            {
+                var scopeFactory = sp.GetRequiredService<IServiceScopeFactory>();
+                return new RabbitMQBus(sp.GetService<IMediator>(), scopeFactory);
+            });
+
+            // Subscriptions
+            services.AddTransient<TransferEventHandler>();
+
             // Domain Events
             services.AddTransient<IEventHandler<TransferCreatedEvent>, TransferEventHandler>();
             

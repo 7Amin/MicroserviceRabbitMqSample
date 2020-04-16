@@ -7,3 +7,6 @@
 /home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.AssemblyInfo.cs
 /home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
 /home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/home/amin/BlueBitSoft/MicroserviceRabbitMqSample/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.csproj.CopyComplete
